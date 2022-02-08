@@ -47,6 +47,7 @@ Space-X-demo/backend/src/main/java/edu/tum/backend/security/CorsConfig: CORS con
 
 ## Abbreviations
 CRUD: Create, Read, Update, Delete
+
 CORS: Cross-origin resource sharing
 
 
