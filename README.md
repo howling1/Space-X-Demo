@@ -37,10 +37,12 @@ If the addition is successful, you will get a success notification. The new ship
 
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152972299-f0c70851-63da-4573-953c-3ef2f693eab6.png">
 
-5. Deleting a ship: you can click the corresponding button Delete to delete a specific ship.
+5. Deleting a ship: you can click the corresponding button Delete to delete a specific ship. Then a confirmation notification will be poped up. After confirmation, you will get a success notification if the delete completed. Then the one you delete will not be displayed because you have deleted it in the local database. The total number of ships will also update.
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152972675-ae0a3870-67aa-4479-94a5-c4cece3aae82.png">
 
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152973971-b2e26920-450b-43a3-bead-21b60dc0c89b.png">
 
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152974019-4a060f10-f67b-4edb-ad2a-d15f2fa05211.png">
 
 ## Demo
 Watch this video demo to know more about the system: https://drive.google.com/file/d/1FLAT86Q_6hFeYqQWXdycP6ErJP9I0OcZ/view?usp=sharing
