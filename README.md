@@ -4,7 +4,7 @@ A mini website to search and manage Space-X ships, with JAVA, Springboot backend
 ## Prerequisite
 
 ## Implementation
-Frontend important files:
+### Frontend important files:
 
 Space-X-demo/frontend/package.json: packages and libraries used in the Vue.js application
 
@@ -27,7 +27,7 @@ Space-X-demo/frontend/views/About.vue: About page(URL:http://localhost:3000/abou
 Space-X-demo/frontend/views/Home.vue: Home page(URL:http://localhost:3000/)
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152953397-05409b6b-78b3-4ddd-8c7a-7fac8edd3067.png">
 
-Backend important files:
+### Backend important files:
 
 Space-X-demo/backend/pom.xml: project maven file including all packages used in backend
 
