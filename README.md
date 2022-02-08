@@ -19,6 +19,25 @@ To run this system in your local PC(Mac), there are serveral steps to complete:
 10. Open your terminal and change the current directory to Space-X-demo/frontend, and execute the command "npm install" to install all packages of the fontend.
 11. Execute the command "npm run serve -- --port 3000" to start the frontend.
 12. Open your browser and access the URL: http://localhost:3000 to use this website.
+
+## System function
+1. Ships display: the home page display the basic information of all ships loaded from the Space-X API, including the name, the build year, the total number of ships. By clicking the name, you can be directed to the corresponding website of a specific ship.
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152970233-fe8aa488-2037-4d90-a44f-17adc30fe8f0.png">
+
+2. Ship search: you can fuzzy search for ships by name.
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152970592-d33119b5-f2ac-4ef3-acb9-3cd2372fdc08.png">
+
+3. Adding new a new ship: You can add a new ship with basic information. the field ID and Name must be not null and different from those of ships in the local database. Otherwise, the request will be refused.
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152971434-3b6a6cf8-10fe-4055-95db-bfe4eb94a522.png">
+
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152971607-86d564a5-870a-47fd-8dd4-45fefa05fc75.png">
+
+![Uploading image.png…]()
+
+
+5. sas
+6. sa
+
 ## Demo
 Watch this video demo to know more about the system: https://drive.google.com/file/d/1FLAT86Q_6hFeYqQWXdycP6ErJP9I0OcZ/view?usp=sharing
 
