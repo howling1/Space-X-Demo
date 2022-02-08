@@ -20,7 +20,7 @@ To run this system in your local PC(Mac), there are serveral steps to complete:
 11. Execute the command "npm run serve -- --port 3000" to start the frontend.
 12. Open your browser and access the URL: http://localhost:3000 to use this website.
 ## Demo
-Watch this video demo to know more about this system: https://drive.google.com/file/d/1FLAT86Q_6hFeYqQWXdycP6ErJP9I0OcZ/view?usp=sharing
+Watch this video demo to know more about the system: https://drive.google.com/file/d/1FLAT86Q_6hFeYqQWXdycP6ErJP9I0OcZ/view?usp=sharing
 
 ## Implementation
 ### Frontend important files:
