@@ -9,7 +9,7 @@ A mini website to search and manage Space-X ships, with JAVA, Springboot backend
 Space-X-demo/frontend/package.json: packages and libraries used in the Vue.js application
 
 Space-X-demo/frontend/components/Footer.vue: subcomponent Footer
-<img width="1436" alt="image" src="https://user-images.githubusercontent.com/45118918/152952085-fee290af-4f63-412a-b3d9-d7f209dea058.png">
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152957565-e6724d46-8199-4b31-9642-7cb91ae3dafb.png">
 
 Space-X-demo/frontend/components/NavBar.vue: subcomponent NavBar
 <img width="1438" alt="image" src="https://user-images.githubusercontent.com/45118918/152952286-68532d61-12f1-432a-88c0-ef42dec8c08d.png">
