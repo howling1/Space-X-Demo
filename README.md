@@ -27,16 +27,20 @@ To run this system in your local PC(Mac), there are serveral steps to complete:
 2. Ship search: you can fuzzy search for ships by name.
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152970592-d33119b5-f2ac-4ef3-acb9-3cd2372fdc08.png">
 
-3. Adding new a new ship: You can add a new ship with basic information. the field ID and Name must be not null and different from those of ships in the local database. Otherwise, the request will be refused.
+3. Adding new a new ship: You can add a new ship with basic information. the field ID and Name must be not null and different from those of ships in the local database. Otherwise, the request will be refused. The field Link and Build year are optional.
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152971434-3b6a6cf8-10fe-4055-95db-bfe4eb94a522.png">
 
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152971607-86d564a5-870a-47fd-8dd4-45fefa05fc75.png">
 
-![Uploading image.png…]()
+If the addition is successful, you will get a success notification. The new ship will be added to the display list and the total number of ships will increase by 1.
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152972236-191f40a0-5ec6-4d12-9c83-77255a9dd6d3.png">
+
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152972299-f0c70851-63da-4573-953c-3ef2f693eab6.png">
+
+5. Deleting a ship: you can click the corresponding button Delete to delete a specific ship.
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/45118918/152972675-ae0a3870-67aa-4479-94a5-c4cece3aae82.png">
 
 
-5. sas
-6. sa
 
 ## Demo
 Watch this video demo to know more about the system: https://drive.google.com/file/d/1FLAT86Q_6hFeYqQWXdycP6ErJP9I0OcZ/view?usp=sharing
